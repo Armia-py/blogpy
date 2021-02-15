@@ -4,3 +4,11 @@
 # VirtualEnv
 venv
 
+# Database
+db.sqlite3
+
+# Migration
+blog/migrations
+
+# Static Files
+files/
